@@ -1,0 +1,1462 @@
+================================================================
+* System statistics for: 	ipa.eahmwascentos10.com.eahmwascentos10.com
+* Generated on: 		Wed Nov 25 08:22:02 PM +03 2026
+* Running as: 			root
+
+=================== Uptime =====================================
+* Uptime: 			00:59:28
+* Load average: 		0.65 0.70 0.67
+
+=================== Users ======================================
+* Active users: 		8
+* User information
+	USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+	ldapuser           19:07    3:04m  0.00s  0.01s sshd-session: ldapuser2 [priv]
+	eahmwas            17:43    3:04m  0.00s  0.01s sshd-session: eahmwas [priv]
+	eahmwas            17:43    3:04m  0.00s  0.02s sshd-session: eahmwas [priv]
+	eahmwas  tty2      16:23    3:59m  0.02s  0.02s /usr/libexec/gnome-session-binary
+	eahmwas            16:23    3:04m  0.00s  0.01s sshd-session: eahmwas [priv]
+	eahmwas            16:23    3:04m  0.00s  0.02s sshd-session: eahmwas [priv]
+	eahmwas            16:23    3:04m  0.00s  0.01s sshd-session: eahmwas [priv]
+	eahmwas            16:23    3:04m  0.00s  0.02s sshd-session: eahmwas [priv]
+
+=================== Tasks ======================================
+* Number of running tasks: 	420
+* Running programs:
+accounts-daemon
+alsactl
+atd
+at-spi2-registr
+at-spi-bus-laun
+auditd
+avahi-daemon
+bash
+bnx2i_thread/0
+bnx2i_thread/1
+bnx2i_thread/2
+bnx2i_thread/3
+bnx2i_thread/4
+bnx2i_thread/5
+bnx2i_thread/6
+bnx2i_thread/7
+certmonger
+chronyd
+colord
+column
+cpuhp/0
+cpuhp/1
+cpuhp/2
+cpuhp/3
+cpuhp/4
+cpuhp/5
+cpuhp/6
+cpuhp/7
+crond
+cupsd
+dbus-broker
+dbus-broker-lau
+dconf-service
+dnsmasq
+evolution-addre
+evolution-alarm
+evolution-calen
+evolution-sourc
+firewalld
+fusermount3
+fwupd
+gdm
+gdm-session-wor
+gdm-wayland-ses
+gjs
+gnome-keyring-d
+gnome-session-b
+gnome-session-c
+gnome-shell
+gnome-shell-cal
+gnome-software
+goa-daemon
+goa-identity-se
+grep
+gsd-a11y-settin
+gsd-color
+gsd-datetime
+gsd-disk-utilit
+gsd-housekeepin
+gsd-keyboard
+gsd-media-keys
+gsd-power
+gsd-printer
+gsd-print-notif
+gsd-rfkill
+gsd-screensaver
+gsd-sharing
+gsd-smartcard
+gsd-sound
+gsd-usb-protect
+gsd-wacom
+gsd-xsettings
+gssproxy
+gvfsd
+gvfsd-fuse
+gvfsd-metadata
+gvfs-goa-volume
+gvfs-gphoto2-vo
+gvfs-mtp-volume
+gvfs-udisks2-vo
+hardware.sh
+httpd
+ibus-daemon
+ibus-dconf
+ibus-engine-sim
+ibus-extension-
+ibus-portal
+ibus-x11
+idle_inject/0
+idle_inject/1
+idle_inject/2
+idle_inject/3
+idle_inject/4
+idle_inject/5
+idle_inject/6
+idle_inject/7
+ipa-custodia
+irq/16-vmwgfx
+irq/24-pciehp
+irq/25-pciehp
+irq/26-pciehp
+irq/27-pciehp
+irq/28-pciehp
+irq/29-pciehp
+irq/30-pciehp
+irq/31-pciehp
+irq/32-pciehp
+irq/33-pciehp
+irq/34-pciehp
+irq/35-pciehp
+irq/36-pciehp
+irq/37-pciehp
+irq/38-pciehp
+irq/39-pciehp
+irq/40-pciehp
+irq/41-pciehp
+irq/42-pciehp
+irq/43-pciehp
+irq/44-pciehp
+irq/45-pciehp
+irq/46-pciehp
+irq/47-pciehp
+irq/48-pciehp
+irq/49-pciehp
+irq/50-pciehp
+irq/51-pciehp
+irq/52-pciehp
+irq/53-pciehp
+irq/54-pciehp
+irq/55-pciehp
+irq/65-vmw_vmci
+irq/66-vmw_vmci
+irq/67-vmw_vmci
+irq/9-acpi
+irqbalance
+java
+kadmind
+kauditd
+kcompactd0
+kdevtmpfs
+khugepaged
+khungtaskd
+krb5kdc
+ksmd
+ksoftirqd/0
+ksoftirqd/1
+ksoftirqd/2
+ksoftirqd/3
+ksoftirqd/4
+ksoftirqd/5
+ksoftirqd/6
+ksoftirqd/7
+kswapd0
+kthreadd
+kworker/0:0-ata_sff
+kworker/0:0H-events_highpri
+kworker/0:1-ata_sff
+kworker/0:2H-kblockd
+kworker/0:4-events
+kworker/1:0-ata_sff
+kworker/1:1-events_power_efficient
+kworker/1:1H-kblockd
+kworker/1:2-ata_sff
+kworker/1:2H-kblockd
+kworker/2:0-events
+kworker/2:1H
+kworker/2:1-xfs-conv/dm-0
+kworker/2:2-ata_sff
+kworker/2:2H-kblockd
+kworker/3:0-mm_percpu_wq
+kworker/3:1-ata_sff
+kworker/3:1H-kblockd
+kworker/3:2-ata_sff
+kworker/3:2H
+kworker/4:0-ata_sff
+kworker/4:1-ata_sff
+kworker/4:1H-kblockd
+kworker/4:2-events
+kworker/4:2H-kblockd
+kworker/5:0-ata_sff
+kworker/5:1
+kworker/5:1H
+kworker/5:2-events_freezable_pwr_efficient
+kworker/5:2H-xfs-log/dm-2
+kworker/6:0-ata_sff
+kworker/6:0H-events_highpri
+kworker/6:1-ata_sff
+kworker/6:2-events
+kworker/6:2H-kblockd
+kworker/6:3
+kworker/7:0-ata_sff
+kworker/7:0H-events_highpri
+kworker/7:1-ata_sff
+kworker/7:1H-kblockd
+kworker/7:2-ata_sff
+kworker/7:3-events
+kworker/R-acpi_thermal_pm
+kworker/R-ata_sff
+kworker/R-blkcg_punt_bio
+kworker/R-cnic_wq
+kworker/R-cryptd
+kworker/R-edac-poller
+kworker/R-ib-comp-unb-wq
+kworker/R-ib-comp-wq
+kworker/R-ib_mcast
+kworker/R-ib_nl_sa_wq
+kworker/R-inet_frag_wq
+kworker/R-ipv6_addrconf
+kworker/R-iscsi_conn_cleanup
+kworker/R-kaluad
+kworker/R-kblockd
+kworker/R-kdmflush/253:0
+kworker/R-kdmflush/253:1
+kworker/R-kdmflush/253:2
+kworker/R-kintegrityd
+kworker/R-kmpathd
+kworker/R-kmpath_handlerd
+kworker/R-kmpath_rdacd
+kworker/R-kstrp
+kworker/R-kthrotld
+kworker/R-kvfree_rcu_reclaim
+kworker/R-md_bitmap
+kworker/R-mld
+kworker/R-mm_percpu_wq
+kworker/R-mpt/0
+kworker/R-mpt_poll_0
+kworker/R-netns
+kworker/R-nvme-auth-wq
+kworker/R-nvme-delete-wq
+kworker/R-nvme-reset-wq
+kworker/R-nvme_tcp_wq
+kworker/R-nvme-wq
+kworker/R-rcu_gp
+kworker/R-rpciod
+kworker/R-scsi_tmf_0
+kworker/R-scsi_tmf_1
+kworker/R-scsi_tmf_2
+kworker/R-slub_flushwq
+kworker/R-sync_wq
+kworker/R-tls-strp
+kworker/R-tpm_dev_wq
+kworker/R-ttm
+kworker/R-writeback
+kworker/R-xfsalloc
+kworker/R-xfs-blockgc/dm-0
+kworker/R-xfs-blockgc/dm-2
+kworker/R-xfs-blockgc/sda2
+kworker/R-xfs-buf/dm-0
+kworker/R-xfs-buf/dm-2
+kworker/R-xfs-buf/sda2
+kworker/R-xfs-cil/dm-0
+kworker/R-xfs-cil/dm-2
+kworker/R-xfs-cil/sda2
+kworker/R-xfs-conv/dm-0
+kworker/R-xfs-conv/dm-2
+kworker/R-xfs-conv/sda2
+kworker/R-xfs-inodegc/dm-0
+kworker/R-xfs-inodegc/dm-2
+kworker/R-xfs-inodegc/sda2
+kworker/R-xfs-log/dm-0
+kworker/R-xfs-log/dm-2
+kworker/R-xfs-log/sda2
+kworker/R-xfs_mru_cache
+kworker/R-xfs-reclaim/dm-0
+kworker/R-xfs-reclaim/dm-2
+kworker/R-xfs-reclaim/sda2
+kworker/R-xprtiod
+kworker/u512:0-ipv6_addrconf
+kworker/u512:1
+kworker/u513:0-events_unbound
+kworker/u513:2-flush-253:0
+kworker/u513:3-events_unbound
+kworker/u514:0-flush-253:0
+kworker/u514:1-kvfree_rcu_reclaim
+kworker/u514:2-writeback
+kworker/u515:0
+kworker/u516:0-ttm
+kworker/u516:13-ttm
+kworker/u517:1-ttm
+kworker/u517:3-ttm
+lsmd
+mcelog
+migration/0
+migration/1
+migration/2
+migration/3
+migration/4
+migration/5
+migration/6
+migration/7
+ModemManager
+mutter-x11-fram
+NetworkManager
+ns-slapd
+oddjobd
+oom_reaper
+pipewire
+pipewire-pulse
+polkitd
+pool_workqueue_release
+ps
+qemu-kvm
+rcu_exp_gp_kthread_worker
+rcu_exp_par_gp_kthread_worker/1
+rcu_preempt
+rcu_tasks_kthread
+rcu_tasks_rude_kthread
+rcu_tasks_trace_kthread
+rpc.gssd
+rsyslogd
+rtkit-daemon
+scsi_eh_0
+scsi_eh_1
+scsi_eh_2
+(sd-pam)
+seapplet
+sedispatch
+sftp-server
+sh
+sort
+ssh
+sshd
+sshd-session
+sssd
+sssd_be
+sssd_ifp
+sssd_kcm
+sssd_nss
+sssd_pac
+sssd_pam
+sssd_ssh
+sssd_sudo
+su
+sudo
+switcheroo-cont
+systemd
+systemd-journal
+systemd-logind
+systemd-machine
+systemd-udevd
+systemd-userdbd
+systemd-userwor
+tuned
+tuned-ppd
+udisksd
+uniq
+upowerd
+VGAuthService
+virtlogd
+virtnetworkd
+virtqemud
+vmtoolsd
+vmware-vmblock-
+watchdogd
+wireplumber
+wpa_supplicant
+xdg-desktop-por
+xdg-document-po
+xdg-permission-
+xfsaild/dm-0
+xfsaild/dm-2
+xfsaild/sda2
+Xwayland
+
+* CPU load: 			6.2%
+* Process state:
+	Running: 		1
+	Sleeping: 		418
+	Zombie: 		0
+	Stopped: 		0
+
+=================== Networking ================================
+* Routing table:
+	Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+	default         _gateway        0.0.0.0         UG    100    0        0 ens33
+	192.168.116.0   0.0.0.0         255.255.255.0   U     100    0        0 ens33
+	192.168.122.0   0.0.0.0         255.255.255.0   U     0      0        0 virbr0
+
+=================== Memory ====================================
+* Ram:\t\t\t free of 15700Mb
+=================== Hard Disc =================================
+* Disk Information:
+	Filesystem                  Size  Used Avail Use% Mounted on
+	/dev/mapper/cs-root          16G  9.3G  6.8G  58% /
+	devtmpfs                    7.7G     0  7.7G   0% /dev
+	tmpfs                       7.7G  4.0K  7.7G   1% /dev/shm
+	tmpfs                       3.1G   11M  3.1G   1% /run
+	tmpfs                       1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+	/dev/sda2                   2.0G  304M  1.7G  16% /boot
+	tmpfs                       1.6G  132K  1.6G   1% /run/user/1000
+	/dev/mapper/vgwaseem-lvol0   39G   13G   27G  33% /virt-machines
+	tmpfs                       1.6G   64K  1.6G   1% /run/user/1306200004
+
+* Mounts:
+	/dev/mapper/cs-root on / type xfs (rw,relatime,seclabel,attr2,inode64,logbufs=8,logbsize=32k,noquota)
+	devtmpfs on /dev type devtmpfs (rw,nosuid,seclabel,size=8008312k,nr_inodes=2002078,mode=755,inode64)
+	tmpfs on /dev/shm type tmpfs (rw,nosuid,nodev,seclabel,inode64)
+	devpts on /dev/pts type devpts (rw,nosuid,noexec,relatime,seclabel,gid=5,mode=620,ptmxmode=000)
+	sysfs on /sys type sysfs (rw,nosuid,nodev,noexec,relatime,seclabel)
+	securityfs on /sys/kernel/security type securityfs (rw,nosuid,nodev,noexec,relatime)
+	cgroup2 on /sys/fs/cgroup type cgroup2 (rw,nosuid,nodev,noexec,relatime,seclabel,nsdelegate,memory_recursiveprot)
+	pstore on /sys/fs/pstore type pstore (rw,nosuid,nodev,noexec,relatime,seclabel)
+	bpf on /sys/fs/bpf type bpf (rw,nosuid,nodev,noexec,relatime,mode=700)
+	configfs on /sys/kernel/config type configfs (rw,nosuid,nodev,noexec,relatime)
+	proc on /proc type proc (rw,nosuid,nodev,noexec,relatime)
+	tmpfs on /run type tmpfs (rw,nosuid,nodev,seclabel,size=3215372k,nr_inodes=819200,mode=755,inode64)
+	selinuxfs on /sys/fs/selinux type selinuxfs (rw,nosuid,noexec,relatime)
+	systemd-1 on /proc/sys/fs/binfmt_misc type autofs (rw,relatime,fd=36,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=14779)
+	debugfs on /sys/kernel/debug type debugfs (rw,nosuid,nodev,noexec,relatime,seclabel)
+	hugetlbfs on /dev/hugepages type hugetlbfs (rw,nosuid,nodev,relatime,seclabel,pagesize=2M)
+	mqueue on /dev/mqueue type mqueue (rw,nosuid,nodev,noexec,relatime,seclabel)
+	tracefs on /sys/kernel/tracing type tracefs (rw,nosuid,nodev,noexec,relatime,seclabel)
+	tmpfs on /run/credentials/systemd-journald.service type tmpfs (ro,nosuid,nodev,noexec,relatime,nosymfollow,seclabel,size=1024k,nr_inodes=1024,mode=700,inode64,noswap)
+	fusectl on /sys/fs/fuse/connections type fusectl (rw,nosuid,nodev,noexec,relatime)
+	/dev/sda2 on /boot type xfs (rw,relatime,seclabel,attr2,inode64,logbufs=8,logbsize=32k,noquota)
+	vmware-vmblock on /run/vmblock-fuse type fuse.vmware-vmblock (rw,relatime,user_id=0,group_id=0,default_permissions,allow_other)
+	sunrpc on /var/lib/nfs/rpc_pipefs type rpc_pipefs (rw,relatime)
+	tmpfs on /run/user/1000 type tmpfs (rw,nosuid,nodev,relatime,seclabel,size=1607684k,nr_inodes=401921,mode=700,uid=1000,gid=1000,inode64)
+	gvfsd-fuse on /run/user/1000/gvfs type fuse.gvfsd-fuse (rw,nosuid,nodev,relatime,user_id=1000,group_id=1000)
+	portal on /run/user/1000/doc type fuse.portal (rw,nosuid,nodev,relatime,user_id=1000,group_id=1000)
+	/dev/mapper/vgwaseem-lvol0 on /virt-machines type xfs (rw,relatime,seclabel,attr2,inode64,logbufs=8,logbsize=32k,noquota)
+	tmpfs on /run/user/1306200004 type tmpfs (rw,nosuid,nodev,relatime,seclabel,size=1607684k,nr_inodes=401921,mode=700,uid=1306200004,gid=1306200004,inode64)
+
+1 417 0 0
+==================================Tasks process and memory utilization=============================
+
+top - 20:22:06 up  3:59,  8 users,  load average: 0.65, 0.70, 0.67
+Tasks: 415 total,   1 running, 414 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.9 us,  1.2 sy,  0.0 ni, 85.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :  15700.0 total,   6613.7 free,   5709.8 used,   3710.0 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   9990.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  10008 qemu      20   0 8952180   3.2g  30736 S 130.0  21.0  46:30.79 qemu-kvm
+  15865 root      20   0  240696   5244   3128 R  10.0   0.0   0:00.01 top
+      1 root      20   0   37888  30232  11028 S   0.0   0.2   0:06.35 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.08 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     11 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     12 root      20   0       0      0      0 I   0.0   0.0   0:00.02 kworker+
+     13 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     14 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     15 root      20   0       0      0      0 S   0.0   0.0   0:00.02 ksoftir+
+     16 root      20   0       0      0      0 I   0.0   0.0   0:01.10 rcu_pre+
+     17 root      20   0       0      0      0 S   0.0   0.0   0:00.04 rcu_exp+
+     18 root      20   0       0      0      0 S   0.0   0.0   0:00.01 rcu_exp+
+     19 root      rt   0       0      0      0 S   0.0   0.0   0:00.08 migrati+
+     20 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     21 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/0
+     22 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/1
+     23 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     24 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migrati+
+     25 root      20   0       0      0      0 S   0.0   0.0   0:00.01 ksoftir+
+     28 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/2
+     29 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     30 root      rt   0       0      0      0 S   0.0   0.0   0:00.08 migrati+
+     31 root      20   0       0      0      0 S   0.0   0.0   0:00.01 ksoftir+
+     34 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/3
+     35 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     36 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migrati+
+     37 root      20   0       0      0      0 S   0.0   0.0   0:00.00 ksoftir+
+     40 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/4
+     41 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     42 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migrati+
+     43 root      20   0       0      0      0 S   0.0   0.0   0:00.00 ksoftir+
+     46 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/5
+     47 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     48 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migrati+
+     49 root      20   0       0      0      0 S   0.0   0.0   0:00.00 ksoftir+
+     52 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/6
+     53 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     54 root      rt   0       0      0      0 S   0.0   0.0   0:00.06 migrati+
+     55 root      20   0       0      0      0 S   0.0   0.0   0:00.00 ksoftir+
+     57 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     58 root      20   0       0      0      0 S   0.0   0.0   0:00.00 cpuhp/7
+     59 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+
+     60 root      rt   0       0      0      0 S   0.0   0.0   0:00.07 migrati+
+     61 root      20   0       0      0      0 S   0.0   0.0   0:00.21 ksoftir+
+     63 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     74 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kdevtmp+
+     75 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     76 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     77 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     78 root      20   0       0      0      0 I   0.0   0.0   0:00.00 rcu_tas+
+     80 root      20   0       0      0      0 S   0.0   0.0   0:00.02 kauditd
+     81 root      20   0       0      0      0 S   0.0   0.0   0:00.07 khungta+
+     82 root      20   0       0      0      0 S   0.0   0.0   0:00.00 oom_rea+
+     84 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     85 root      20   0       0      0      0 S   0.0   0.0   0:00.45 kcompac+
+     86 root      25   5       0      0      0 S   0.0   0.0   0:00.00 ksmd
+     87 root      39  19       0      0      0 S   0.0   0.0   0:03.23 khugepa+
+     88 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     89 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     90 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     91 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/9-a+
+     94 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     95 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     96 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+     97 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 watchdo+
+    100 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kswapd0
+    101 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    105 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    111 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/24-+
+    112 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/25-+
+    113 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/26-+
+    114 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/27-+
+    115 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/28-+
+    116 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/29-+
+    117 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/30-+
+    118 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/31-+
+    119 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/32-+
+    120 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/33-+
+    121 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/34-+
+    122 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/35-+
+    123 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/36-+
+    124 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/37-+
+    125 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/38-+
+    126 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/39-+
+    127 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/40-+
+    128 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/41-+
+    129 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/42-+
+    130 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/43-+
+    131 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/44-+
+    132 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/45-+
+    133 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/46-+
+    134 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/47-+
+    135 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/48-+
+    136 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/49-+
+    137 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/50-+
+    138 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/51-+
+    139 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/52-+
+    140 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/53-+
+    141 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/54-+
+    142 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/55-+
+    143 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    144 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    145 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    147 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    148 root       0 -20       0      0      0 I   0.0   0.0   0:00.16 kworker+
+    149 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    151 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    161 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    235 root       0 -20       0      0      0 I   0.0   0.0   0:00.27 kworker+
+    237 root       0 -20       0      0      0 I   0.0   0.0   0:00.14 kworker+
+    287 root       0 -20       0      0      0 I   0.0   0.0   0:00.15 kworker+
+    293 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    294 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    433 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    437 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    440 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    441 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    442 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    443 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    444 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    445 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    446 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    447 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    448 root       0 -20       0      0      0 S   0.0   0.0   0:00.00 bnx2i_t+
+    629 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    630 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    631 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    632 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    634 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    646 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    652 root      20   0       0      0      0 S   0.0   0.0   0:00.01 scsi_eh+
+    653 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    655 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    656 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    658 root      20   0       0      0      0 S   0.0   0.0   0:00.01 scsi_eh+
+    659 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    670 root      20   0       0      0      0 S   0.0   0.0   0:00.00 scsi_eh+
+    671 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    772 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    814 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    820 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    853 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    854 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    855 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    856 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    857 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    858 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    859 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    860 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    861 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    862 root      20   0       0      0      0 S   0.0   0.0   0:03.30 xfsaild+
+    941 root     -51   0       0      0      0 S   0.0   0.0   0:00.76 irq/65-+
+    942 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 irq/66-+
+    943 root     -51   0       0      0      0 S   0.0   0.0   0:00.05 irq/67-+
+    961 root      20   0   26216  12868  10924 S   0.0   0.1   0:00.82 systemd+
+    975 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+    976 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1010 root      20   0   39092  14400   8024 S   0.0   0.1   0:00.35 systemd+
+   1103 root     -51   0       0      0      0 S   0.0   0.0   0:00.01 irq/16-+
+   1104 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1156 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1157 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1158 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1159 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1160 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1162 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1163 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   1164 root      20   0       0      0      0 S   0.0   0.0   0:00.00 xfsaild+
+   1170 root      20   0  152372   1500   1196 S   0.0   0.0   0:00.00 vmware-+
+   1179 root      16  -4  103184   3936   2888 S   0.0   0.0   0:00.12 auditd
+   1181 root      16  -4    6332   3400   2888 S   0.0   0.0   0:00.02 sedispa+
+   1213 dbus      20   0    9140   4376   3428 S   0.0   0.0   0:00.05 dbus-br+
+   1221 dbus      20   0    9028   7116   2552 S   0.0   0.0   0:01.33 dbus-br+
+   1222 avahi     20   0   17540   4336   3928 S   0.0   0.0   0:00.10 avahi-d+
+   1223 chrony    20   0   84824   5524   4768 S   0.0   0.0   0:00.12 chronyd
+   1225 root      20   0  593516  54028  23136 S   0.0   0.3   0:01.13 firewal+
+   1226 root      20   0  556160  20820  17408 S   0.0   0.1   0:00.49 Network+
+   1230 root      20   0   80560   3796   3408 S   0.0   0.0   0:01.69 irqbala+
+   1232 libstor+  20   0    2520   1960   1804 S   0.0   0.0   0:00.09 lsmd
+   1234 root      20   0    2612   2084   1900 S   0.0   0.0   0:00.01 mcelog
+   1237 polkitd   20   0  410968  12324   7724 S   0.0   0.1   0:00.86 polkitd
+   1239 rtkit     21   1   21336   3164   2912 S   0.0   0.0   0:00.31 rtkit-d+
+   1242 root      20   0  527776   6664   6012 S   0.0   0.0   0:00.02 switche+
+   1243 root      20   0   16832   8100   6516 S   0.0   0.1   0:00.66 systemd+
+   1245 root      20   0  542284  13744  10820 S   0.0   0.1   0:00.18 udisksd
+   1252 root      20   0  530584   7624   6360 S   0.0   0.0   0:00.08 upowerd
+   1253 root      20   0  242624  11400   9616 S   0.0   0.1   0:00.01 VGAuthS+
+   1255 root      20   0  537108   9168   7276 S   0.0   0.1   0:38.18 vmtoolsd
+   1269 root      20   0   15936   6196   5212 S   0.0   0.0   0:00.18 systemd+
+   1293 avahi     20   0   17356   1688   1368 S   0.0   0.0   0:00.00 avahi-d+
+   1443 root      20   0  390084  12164  10324 S   0.0   0.1   0:00.06 ModemMa+
+   1448 root      39  19    4384   2932   2700 S   0.0   0.0   0:00.00 alsactl
+   1450 root      20   0   19368   6844   5300 S   0.0   0.0   0:00.05 certmon+
+   1457 root      20   0  344976  12764   9284 S   0.0   0.1   0:00.09 gssproxy
+   1465 root      20   0    7680   3852   3480 S   0.0   0.0   0:00.00 oddjobd
+   1470 root      20   0    9172   6992   5728 S   0.0   0.0   0:00.02 sshd
+   1471 root      20   0  489156  30844  15464 S   0.0   0.2   0:04.04 tuned
+   1497 root      20   0  163468   9472   7428 S   0.0   0.1   0:01.42 rsyslogd
+   1581 root      20   0  487664  28980  15216 S   0.0   0.2   0:01.93 tuned-p+
+   1613 root      20   0  529680   7112   6248 S   0.0   0.0   0:00.15 account+
+   1614 root      20   0   19724   3836   2936 S   0.0   0.0   0:00.02 rpc.gssd
+   1615 root      20   0  252652   9984   7612 S   0.0   0.1   0:00.02 cupsd
+   1618 root      20   0   20032  11396   7680 S   0.0   0.1   0:00.66 systemd+
+   1643 root      20   0    3500   2292   2148 S   0.0   0.0   0:00.00 atd
+   1644 root      20   0  229924   3736   2864 S   0.0   0.0   0:00.06 crond
+   1645 root      20   0  531012   8604   7544 S   0.0   0.1   0:00.03 gdm
+   6762 colord    20   0  533928  11440   9528 S   0.0   0.1   0:00.04 colord
+   7255 root      20   0   15344   5612   4664 S   0.0   0.0   0:00.07 wpa_sup+
+   7882 root      20   0  479428  10216   8800 S   0.0   0.1   0:00.02 gdm-ses+
+   7905 eahmwas   20   0   23456  15156  10692 S   0.0   0.1   0:00.31 systemd
+   7907 eahmwas   20   0   25708   2928   1576 S   0.0   0.0   0:00.00 (sd-pam)
+   7925 eahmwas   20   0  534356   7620   6552 S   0.0   0.0   0:00.02 gnome-k+
+   7936 eahmwas   20   0  453632   5860   5364 S   0.0   0.0   0:00.00 gdm-way+
+   7941 eahmwas   20   0    8692   3964   3552 S   0.0   0.0   0:00.01 dbus-br+
+   7946 eahmwas   20   0    6584   4520   2380 S   0.0   0.0   0:00.11 dbus-br+
+   7948 eahmwas   20   0  554716  13908  12076 S   0.0   0.1   0:00.02 gnome-s+
+   8004 eahmwas   20   0  307936   5092   4692 S   0.0   0.0   0:00.00 gnome-s+
+   8008 eahmwas   20   0  776704  15364  12912 S   0.0   0.1   0:00.06 gnome-s+
+   8038 eahmwas   20   0 4473880 205844 111548 S   0.0   1.3   0:36.92 gnome-s+
+   8044 eahmwas   20   0  535800   8968   7864 S   0.0   0.1   0:00.00 gvfsd
+   8050 eahmwas   20   0  677660   7052   6272 S   0.0   0.0   0:00.00 gvfsd-f+
+   8084 eahmwas   20   0  380400   7232   6516 S   0.0   0.0   0:00.01 at-spi-+
+   8090 eahmwas   20   0    8564   3780   3444 S   0.0   0.0   0:00.00 dbus-br+
+   8091 eahmwas   20   0    4788   2760   2424 S   0.0   0.0   0:00.00 dbus-br+
+   8092 eahmwas   20   0  233568   6984   6296 S   0.0   0.0   0:00.00 at-spi2+
+   8101 eahmwas   20   0  663684  20132  16652 S   0.0   0.1   0:00.02 gnome-s+
+   8102 eahmwas   20   0  527268   6140   5636 S   0.0   0.0   0:00.00 xdg-per+
+   8111 eahmwas   20   0  229416   5844   5212 S   0.0   0.0   0:00.00 dconf-s+
+   8137 eahmwas   20   0 1370336  27144  22420 S   0.0   0.2   0:00.12 evoluti+
+   8143 eahmwas   20   0 3098172  29484  23120 S   0.0   0.2   0:00.06 gjs
+   8152 eahmwas   20   0  606764  11880   6688 S   0.0   0.1   0:00.04 ibus-da+
+   8153 eahmwas   20   0  601496   6524   5864 S   0.0   0.0   0:00.00 gsd-a11+
+   8154 eahmwas   20   0  779532  23072  19296 S   0.0   0.1   0:00.11 gsd-col+
+   8157 eahmwas   20   0  619060  10516   8884 S   0.0   0.1   0:00.00 gsd-dat+
+   8159 eahmwas   20   0  603976   8012   7088 S   0.0   0.0   0:00.46 gsd-hou+
+   8164 eahmwas   20   0  778216  22556  18888 S   0.0   0.1   0:00.03 gsd-key+
+   8165 eahmwas   20   0  858192  25568  21292 S   0.0   0.2   0:00.05 gsd-med+
+   8167 eahmwas   20   0  713952  23848  19904 S   0.0   0.1   0:00.06 gsd-pow+
+   8170 eahmwas   20   0  545600  11884   9848 S   0.0   0.1   0:00.01 gsd-pri+
+   8173 eahmwas   20   0  675444   6684   5968 S   0.0   0.0   0:00.00 gsd-rfk+
+   8174 eahmwas   20   0  527544   6312   5760 S   0.0   0.0   0:00.00 gsd-scr+
+   8176 eahmwas   20   0  989684  42456  33612 S   0.0   0.3   0:00.10 evoluti+
+   8191 eahmwas   20   0  759692  11372   9784 S   0.0   0.1   0:00.02 gsd-sha+
+   8196 eahmwas   20   0  741812  50152  30636 S   0.0   0.3   0:00.13 seapplet
+   8206 eahmwas   20   0  305660   7172   6032 S   0.0   0.0   0:00.00 gsd-dis+
+   8207 eahmwas   20   0 2390940 129156  80708 S   0.0   0.8   0:35.97 vmtoolsd
+   8227 eahmwas   20   0 1077628 108124  44088 S   0.0   0.7   0:00.80 gnome-s+
+   8246 eahmwas   20   0  614716  12040  10280 S   0.0   0.1   0:00.00 gsd-sma+
+   8254 eahmwas   20   0  608404   8752   7660 S   0.0   0.1   0:00.00 gsd-sou+
+   8282 eahmwas   20   0  750860   7228   6468 S   0.0   0.0   0:00.00 gsd-usb+
+   8283 eahmwas   20   0  853524  23780  19056 S   0.0   0.1   0:00.05 gsd-wac+
+   8301 eahmwas   20   0  528444   7248   6560 S   0.0   0.0   0:00.00 ibus-dc+
+   8308 eahmwas   20   0  788816  33868  20172 S   0.0   0.2   0:01.45 ibus-ex+
+   8347 eahmwas   20   0  732524  22248  18776 S   0.0   0.1   0:00.03 goa-dae+
+   8348 eahmwas   20   0  612480  12068  10112 S   0.0   0.1   0:00.02 gvfs-ud+
+   8360 eahmwas   20   0  528400   7276   6636 S   0.0   0.0   0:00.00 ibus-po+
+   8363 eahmwas   20   0 3098232  28852  23184 S   0.0   0.2   0:00.09 gjs
+   8368 eahmwas   20   0 1112092  23700  19652 S   0.0   0.1   0:00.05 evoluti+
+   8375 eahmwas   20   0  527840   6364   5732 S   0.0   0.0   0:00.00 gvfs-mt+
+   8384 eahmwas   20   0  615608  10540   8832 S   0.0   0.1   0:01.95 goa-ide+
+   8408 eahmwas   20   0  529444   7056   6300 S   0.0   0.0   0:00.00 gvfs-gp+
+   8437 eahmwas   20   0  527716   6232   5624 S   0.0   0.0   0:00.00 gvfs-go+
+   8443 eahmwas   20   0 1038488  26812  22788 S   0.0   0.2   0:00.04 evoluti+
+   8454 eahmwas   20   0  237472  75364  53040 S   0.0   0.5   0:00.12 Xwayland
+   8468 sssd      20   0  247952  10028   8432 S   0.0   0.1   0:02.56 sssd_kcm
+   8595 eahmwas   20   0  454744   7104   6432 S   0.0   0.0   0:00.00 ibus-en+
+   8606 eahmwas    9 -11  322644  10376   7364 S   0.0   0.1   0:00.02 pipewire
+   8607 eahmwas    9 -11  939416  25632  19728 S   0.0   0.2   0:00.09 wireplu+
+   8608 eahmwas    9 -11  319800   8408   6564 S   0.0   0.1   0:00.01 pipewir+
+   8643 eahmwas   20   0  990424  16184  12904 S   0.0   0.1   0:00.44 xdg-des+
+   8661 eahmwas   20   0  826912   7000   6300 S   0.0   0.0   0:00.00 xdg-doc+
+   8673 root      20   0    2472   1820   1704 S   0.0   0.0   0:00.00 fusermo+
+   8701 eahmwas   20   0  974408  63716  53476 S   0.0   0.4   0:00.42 gsd-xse+
+   8733 eahmwas   20   0  244048  12360  10832 S   0.0   0.1   0:00.00 ibus-x11
+   8768 eahmwas   20   0  861920  80380  64956 S   0.0   0.5   0:00.12 mutter-+
+   8816 eahmwas   20   0  641056  15476  12896 S   0.0   0.1   0:00.02 gsd-pri+
+   8817 eahmwas   20   0 1096032  38012  29304 S   0.0   0.2   0:00.43 xdg-des+
+   8844 eahmwas   20   0  780120  24884  19432 S   0.0   0.2   0:00.40 xdg-des+
+   8870 root      20   0  563584  25576  19472 S   0.0   0.2   0:00.74 fwupd
+   8931 root      20   0   27716  12328  10168 S   0.0   0.1   0:00.02 sshd-se+
+   8941 root      20   0   36832  12600  10416 S   0.0   0.1   0:00.01 sshd-se+
+   8943 eahmwas   20   0   28800   9292   6280 S   0.0   0.1   0:01.29 sshd-se+
+   8949 eahmwas   20   0  230116   5680   3580 S   0.0   0.0   0:00.01 bash
+   8983 eahmwas   20   0   37228   8580   6124 S   0.0   0.1   0:00.00 sshd-se+
+   8984 eahmwas   20   0    2516   1844   1720 S   0.0   0.0   0:00.00 sftp-se+
+   9023 root      20   0  260276   8312   6828 S   0.0   0.1   0:00.63 sudo
+   9036 root      20   0  260276   3036   1564 S   0.0   0.0   0:00.00 sudo
+   9037 root      20   0  230148   5752   3684 S   0.0   0.0   0:00.02 bash
+   9069 root      20   0   27720  12368  10208 S   0.0   0.1   0:00.02 sshd-se+
+   9074 root      20   0   36824  12528  10348 S   0.0   0.1   0:00.01 sshd-se+
+   9076 eahmwas   20   0   28496   9120   6356 S   0.0   0.1   0:01.86 sshd-se+
+   9078 eahmwas   20   0  230116   5644   3544 S   0.0   0.0   0:00.00 bash
+   9105 eahmwas   20   0   37228   8596   6132 S   0.0   0.1   0:00.00 sshd-se+
+   9112 eahmwas   20   0    2516   1848   1728 S   0.0   0.0   0:00.00 sftp-se+
+   9138 root      20   0  260276   8252   6720 S   0.0   0.1   0:00.92 sudo
+   9142 root      20   0  260276   2924   1452 S   0.0   0.0   0:00.00 sudo
+   9143 root      20   0  241652   7792   4680 S   0.0   0.0   0:01.53 bash
+   9192 eahmwas   20   0  454340   6504   5920 S   0.0   0.0   0:00.02 gvfsd-m+
+   9306 root       0 -20       0      0      0 I   0.0   0.0   0:00.18 kworker+
+   9602 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9630 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9631 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9632 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9633 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9634 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9635 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9636 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+   9637 root      20   0       0      0      0 S   0.0   0.0   0:01.02 xfsaild+
+   9813 root      20   0 1750200  29848  21900 S   0.0   0.2   0:00.11 virtqem+
+   9880 root      20   0 1661816  20540  17572 S   0.0   0.1   0:00.14 virtnet+
+   9974 dnsmasq   20   0    9032   2236   1860 S   0.0   0.0   0:00.06 dnsmasq
+   9975 root      20   0    9032   1624   1264 S   0.0   0.0   0:00.00 dnsmasq
+   9989 root      20   0  260156  16652  14392 S   0.0   0.1   0:00.02 virtlogd
+  10216 root      20   0  236768   9144   7472 S   0.0   0.1   0:16.67 ssh
+  10300 root       0 -20       0      0      0 I   0.0   0.0   0:00.15 kworker+
+  10382 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  10386 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  10388 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  10534 dirsrv    20   0 8204568 121952  32904 S   0.0   0.8   0:09.73 ns-slapd
+  10566 root      20   0  300436  12604   2432 S   0.0   0.1   0:00.00 krb5kdc
+  10568 root      20   0  300468  18844   8660 S   0.0   0.1   0:00.01 krb5kdc
+  10569 root      20   0  300468  18844   8660 S   0.0   0.1   0:00.00 krb5kdc
+  10570 root      20   0  300468  18844   8660 S   0.0   0.1   0:00.06 krb5kdc
+  10571 root      20   0  300468  18844   8660 S   0.0   0.1   0:00.02 krb5kdc
+  10575 root      20   0  317764  34296   7848 S   0.0   0.2   0:00.07 kadmind
+  10588 root      20   0   30812  19720  14356 S   0.0   0.1   0:00.94 httpd
+  10590 apache    20   0   42464  10740   5312 S   0.0   0.1   0:00.00 httpd
+  10591 kdcproxy  20   0  556040  34400  12924 S   0.0   0.2   0:00.74 httpd
+  10593 kdcproxy  20   0  490504  34392  12924 S   0.0   0.2   0:00.75 httpd
+  10594 ipaapi    20   0  512376 103764  26976 S   0.0   0.6   0:01.53 httpd
+  10595 ipaapi    20   0  512376 103920  26976 S   0.0   0.6   0:01.53 httpd
+  10596 ipaapi    20   0  514424 105428  27048 S   0.0   0.7   0:01.63 httpd
+  10597 ipaapi    20   0  512244 103768  26976 S   0.0   0.6   0:01.53 httpd
+  10598 apache    20   0 2607612  28796  15616 S   0.0   0.2   0:04.25 httpd
+  10600 apache    20   0 2410940  30964  16672 S   0.0   0.2   0:04.00 httpd
+  10601 apache    20   0 2410940  27420  15604 S   0.0   0.2   0:04.01 httpd
+  10674 root      20   0  285568  49684  16512 S   0.0   0.3   0:01.76 ipa-cus+
+  11093 root      20   0   27720  12324  10160 S   0.0   0.1   0:00.02 sshd-se+
+  11098 root      20   0   36832  12552  10372 S   0.0   0.1   0:00.01 sshd-se+
+  11100 eahmwas   20   0   28820   9236   6196 S   0.0   0.1   0:00.72 sshd-se+
+  11102 eahmwas   20   0  230116   5720   3620 S   0.0   0.0   0:00.00 bash
+  11108 eahmwas   20   0   37224   8596   6132 S   0.0   0.1   0:00.00 sshd-se+
+  11131 eahmwas   20   0    2516   1976   1824 S   0.0   0.0   0:00.00 sftp-se+
+  11164 root      20   0  260276   8192   6708 S   0.0   0.1   0:00.38 sudo
+  11168 root      20   0  260276   2928   1456 S   0.0   0.0   0:00.00 sudo
+  11169 root      20   0  230544   6268   3732 S   0.0   0.0   0:00.44 bash
+  11250 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  11251 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  11252 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  11253 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  11332 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  11783 pkiuser   20   0 9974.5m 298048  39472 S   0.0   1.9   0:43.84 java
+  12133 root      20   0       0      0      0 I   0.0   0.0   0:00.90 kworker+
+  13615 sssd      20   0  247120   8752   7040 S   0.0   0.1   0:00.03 sssd
+  13616 sssd      20   0  321132  24708  19632 S   0.0   0.2   0:00.28 sssd_be
+  13618 sssd      20   0  281508  45276  43476 S   0.0   0.3   0:00.12 sssd_nss
+  13619 sssd      20   0   74804  18096  15240 S   0.0   0.1   0:00.13 sssd_pam
+  13620 sssd      20   0  246996   8420   7072 S   0.0   0.1   0:00.08 sssd_ifp
+  13621 sssd      20   0  246748   8008   6812 S   0.0   0.0   0:00.06 sssd_ssh
+  13622 sssd      20   0  246788   8164   6884 S   0.0   0.1   0:00.07 sssd_su+
+  13623 sssd      20   0  296432  15176  12788 S   0.0   0.1   0:00.08 sssd_pac
+  13679 root      20   0       0      0      0 I   0.0   0.0   0:00.32 kworker+
+  13783 root      20   0       0      0      0 I   0.0   0.0   0:00.57 kworker+
+  14016 root      20   0       0      0      0 I   0.0   0.0   0:00.39 kworker+
+  14090 ldapuse+  20   0   22572  14104  10668 S   0.0   0.1   0:00.08 systemd
+  14091 ldapuse+  20   0   34748   2940   1592 S   0.0   0.0   0:00.00 (sd-pam)
+  14360 root      20   0   36192  11428   9336 S   0.0   0.1   0:00.01 sshd-se+
+  14369 ldapuse+  20   0   36660   8396   6004 S   0.0   0.1   0:09.80 sshd-se+
+  14370 ldapuse+  20   0  239216   5884   3776 S   0.0   0.0   0:00.02 sh
+  14408 root      20   0  251832   5532   4740 S   0.0   0.0   0:00.00 su
+  14415 root      20   0  232248   7964   3760 S   0.0   0.0   0:00.78 bash
+  14508 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  14515 root       0 -20       0      0      0 I   0.0   0.0   0:00.25 kworker+
+  14569 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  14688 root       0 -20       0      0      0 I   0.0   0.0   0:00.03 kworker+
+  14689 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  14728 root       0 -20       0      0      0 I   0.0   0.0   0:00.05 kworker+
+  14748 root      20   0       0      0      0 I   0.0   0.0   0:00.44 kworker+
+  14806 root      20   0       0      0      0 I   0.0   0.0   0:00.12 kworker+
+  15200 root      20   0       0      0      0 I   0.0   0.0   0:00.25 kworker+
+  15274 root      20   0       0      0      0 I   0.0   0.0   0:00.08 kworker+
+  15276 root      20   0       0      0      0 I   0.0   0.0   0:00.13 kworker+
+  15288 root      20   0       0      0      0 I   0.0   0.0   0:00.14 kworker+
+  15329 root      20   0       0      0      0 I   0.0   0.0   0:00.13 kworker+
+  15342 root      20   0       0      0      0 I   0.0   0.0   0:00.10 kworker+
+  15353 root      20   0       0      0      0 I   0.0   0.0   0:00.09 kworker+
+  15363 root      20   0       0      0      0 I   0.0   0.0   0:00.05 kworker+
+  15368 root      20   0       0      0      0 I   0.0   0.0   0:00.02 kworker+
+  15380 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15381 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15382 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15391 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15401 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15520 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15534 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15552 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15586 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15587 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15597 root      20   0   16388   6124   5112 S   0.0   0.0   0:00.00 systemd+
+  15610 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15619 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15620 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15633 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15634 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15650 root      20   0   16388   6120   5104 S   0.0   0.0   0:00.00 systemd+
+  15651 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15653 root      20   0   16388   6128   5116 S   0.0   0.0   0:00.00 systemd+
+  15769 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker+
+  15780 root      20   0  228672   3620   3132 S   0.0   0.0   0:00.01 hardwar+
+=================== Device Info ==============================
+Device details: 
+00:00.0 Host bridge: Intel Corporation 440BX/ZX/DX - 82443BX/ZX/DX Host bridge (AGP disabled) (rev 01)
+	Subsystem: VMware Device 1976
+	Flags: bus master, medium devsel, latency 0
+
+00:01.0 PCI bridge: Intel Corporation 440BX/ZX/DX - 82443BX/ZX/DX AGP bridge (rev 01) (prog-if 00 [Normal decode])
+	Flags: bus master, 66MHz, medium devsel, latency 0
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=64
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: [disabled] [32-bit]
+	Prefetchable memory behind bridge: [disabled] [32-bit]
+
+00:07.0 ISA bridge: Intel Corporation 82371AB/EB/MB PIIX4 ISA (rev 08)
+	Subsystem: VMware Virtual Machine Chipset
+	Flags: bus master, medium devsel, latency 0
+
+00:07.1 IDE interface: Intel Corporation 82371AB/EB/MB PIIX4 IDE (rev 01) (prog-if 8a [ISA Compatibility mode controller, supports both channels switched to PCI native mode, supports bus mastering])
+	Subsystem: VMware Virtual Machine Chipset
+	Flags: bus master, medium devsel, latency 64
+	I/O ports at 01f0 [size=8]
+	I/O ports at 03f4
+	I/O ports at 0170 [size=8]
+	I/O ports at 0374
+	I/O ports at 1060 [size=16]
+	Kernel driver in use: ata_piix
+	Kernel modules: ata_piix, ata_generic
+
+00:07.3 Bridge: Intel Corporation 82371AB/EB/MB PIIX4 ACPI (rev 08)
+	Subsystem: VMware Virtual Machine Chipset
+	Flags: medium devsel, IRQ 9
+	Kernel modules: i2c_piix4
+
+00:07.7 System peripheral: VMware Virtual Machine Communication Interface (rev 10)
+	Subsystem: VMware Virtual Machine Communication Interface
+	Flags: bus master, medium devsel, latency 64, IRQ 16
+	I/O ports at 1080 [size=64]
+	Memory at febc0000 (64-bit, non-prefetchable) [size=256K]
+	Capabilities: [40] MSI: Enable- Count=1/1 Maskable- 64bit+
+	Capabilities: [58] MSI-X: Enable+ Count=3 Masked-
+	Kernel driver in use: vmw_vmci
+	Kernel modules: vmw_vmci
+
+00:0f.0 VGA compatible controller: VMware SVGA II Adapter (prog-if 00 [VGA controller])
+	Subsystem: VMware SVGA II Adapter
+	Flags: bus master, medium devsel, latency 64, IRQ 16
+	I/O ports at 1070 [size=16]
+	Memory at e8000000 (32-bit, prefetchable) [size=128M]
+	Memory at fe000000 (32-bit, non-prefetchable) [size=8M]
+	Expansion ROM at 000c0000 [virtual] [disabled] [size=128K]
+	Capabilities: [40] Vendor Specific Information: Len=00 <?>
+	Capabilities: [44] PCI Advanced Features
+	Kernel driver in use: vmwgfx
+	Kernel modules: vmwgfx
+
+00:10.0 SCSI storage controller: Broadcom / LSI 53c1030 PCI-X Fusion-MPT Dual Ultra320 SCSI (rev 01) (prog-if 00 [Vendor specific])
+	Subsystem: VMware LSI Logic Parallel SCSI Controller (emulated)
+	Flags: bus master, medium devsel, latency 64, IRQ 17
+	I/O ports at 1400 [size=256]
+	Memory at feb80000 (64-bit, non-prefetchable) [size=128K]
+	Memory at feba0000 (64-bit, non-prefetchable) [size=128K]
+	Expansion ROM at c0200000 [virtual] [disabled] [size=16K]
+	Capabilities: [f8] PCI Advanced Features
+	Kernel driver in use: mptspi
+	Kernel modules: mptspi
+
+00:11.0 PCI bridge: VMware PCI bridge (rev 02) (prog-if 01 [Subtractive decode])
+	Subsystem: VMware PCI bridge
+	Flags: bus master, medium devsel, latency 0
+	Bus: primary=00, secondary=02, subordinate=02, sec-latency=68
+	I/O behind bridge: 2000-3fff [size=8K] [16-bit]
+	Memory behind bridge: fd500000-fdffffff [size=11M] [32-bit]
+	Prefetchable memory behind bridge: e7b00000-e7ffffff [size=5M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI bridge
+
+00:15.0 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 24
+	Bus: primary=00, secondary=03, subordinate=03, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fd400000-fd4fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: c0000000-c01fffff [size=2M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:15.1 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 25
+	Bus: primary=00, secondary=04, subordinate=04, sec-latency=0
+	I/O behind bridge: 7000-7fff [size=4K] [16-bit]
+	Memory behind bridge: fd000000-fd0fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7700000-e77fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:15.2 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 26
+	Bus: primary=00, secondary=05, subordinate=05, sec-latency=0
+	I/O behind bridge: b000-bfff [size=4K] [16-bit]
+	Memory behind bridge: fcc00000-fccfffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7300000-e73fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:15.3 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 27
+	Bus: primary=00, secondary=06, subordinate=06, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc800000-fc8fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6f00000-e6ffffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:15.4 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 28
+	Bus: primary=00, secondary=07, subordinate=07, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc400000-fc4fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6b00000-e6bfffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:15.5 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 29
+	Bus: primary=00, secondary=08, subordinate=08, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc000000-fc0fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6700000-e67fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:15.6 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 30
+	Bus: primary=00, secondary=09, subordinate=09, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fbc00000-fbcfffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6300000-e63fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:15.7 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 31
+	Bus: primary=00, secondary=0a, subordinate=0a, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fb800000-fb8fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e5f00000-e5ffffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.0 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 32
+	Bus: primary=00, secondary=0b, subordinate=0b, sec-latency=0
+	I/O behind bridge: 4000-4fff [size=4K] [16-bit]
+	Memory behind bridge: fd300000-fd3fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7a00000-e7afffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.1 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 33
+	Bus: primary=00, secondary=0c, subordinate=0c, sec-latency=0
+	I/O behind bridge: 8000-8fff [size=4K] [16-bit]
+	Memory behind bridge: fcf00000-fcffffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7600000-e76fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.2 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 34
+	Bus: primary=00, secondary=0d, subordinate=0d, sec-latency=0
+	I/O behind bridge: c000-cfff [size=4K] [16-bit]
+	Memory behind bridge: fcb00000-fcbfffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7200000-e72fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.3 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 35
+	Bus: primary=00, secondary=0e, subordinate=0e, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc700000-fc7fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6e00000-e6efffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.4 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 36
+	Bus: primary=00, secondary=0f, subordinate=0f, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc300000-fc3fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6a00000-e6afffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.5 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 37
+	Bus: primary=00, secondary=10, subordinate=10, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fbf00000-fbffffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6600000-e66fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.6 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 38
+	Bus: primary=00, secondary=11, subordinate=11, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fbb00000-fbbfffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6200000-e62fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:16.7 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 39
+	Bus: primary=00, secondary=12, subordinate=12, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fb700000-fb7fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e5e00000-e5efffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.0 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 40
+	Bus: primary=00, secondary=13, subordinate=13, sec-latency=0
+	I/O behind bridge: 5000-5fff [size=4K] [16-bit]
+	Memory behind bridge: fd200000-fd2fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7900000-e79fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.1 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 41
+	Bus: primary=00, secondary=14, subordinate=14, sec-latency=0
+	I/O behind bridge: 9000-9fff [size=4K] [16-bit]
+	Memory behind bridge: fce00000-fcefffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7500000-e75fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.2 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 42
+	Bus: primary=00, secondary=15, subordinate=15, sec-latency=0
+	I/O behind bridge: d000-dfff [size=4K] [16-bit]
+	Memory behind bridge: fca00000-fcafffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7100000-e71fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.3 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 43
+	Bus: primary=00, secondary=16, subordinate=16, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc600000-fc6fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6d00000-e6dfffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.4 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 44
+	Bus: primary=00, secondary=17, subordinate=17, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc200000-fc2fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6900000-e69fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.5 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 45
+	Bus: primary=00, secondary=18, subordinate=18, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fbe00000-fbefffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6500000-e65fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.6 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 46
+	Bus: primary=00, secondary=19, subordinate=19, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fba00000-fbafffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6100000-e61fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:17.7 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 47
+	Bus: primary=00, secondary=1a, subordinate=1a, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fb600000-fb6fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e5d00000-e5dfffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.0 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 48
+	Bus: primary=00, secondary=1b, subordinate=1b, sec-latency=0
+	I/O behind bridge: 6000-6fff [size=4K] [16-bit]
+	Memory behind bridge: fd100000-fd1fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7800000-e78fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.1 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 49
+	Bus: primary=00, secondary=1c, subordinate=1c, sec-latency=0
+	I/O behind bridge: a000-afff [size=4K] [16-bit]
+	Memory behind bridge: fcd00000-fcdfffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7400000-e74fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.2 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 50
+	Bus: primary=00, secondary=1d, subordinate=1d, sec-latency=0
+	I/O behind bridge: e000-efff [size=4K] [16-bit]
+	Memory behind bridge: fc900000-fc9fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e7000000-e70fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.3 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 51
+	Bus: primary=00, secondary=1e, subordinate=1e, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc500000-fc5fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6c00000-e6cfffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.4 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 52
+	Bus: primary=00, secondary=1f, subordinate=1f, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fc100000-fc1fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6800000-e68fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.5 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 53
+	Bus: primary=00, secondary=20, subordinate=20, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fbd00000-fbdfffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6400000-e64fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.6 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 54
+	Bus: primary=00, secondary=21, subordinate=21, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fb900000-fb9fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e6000000-e60fffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+00:18.7 PCI bridge: VMware PCI Express Root Port (rev 01) (prog-if 00 [Normal decode])
+	Subsystem: VMware PCI Express Root Port
+	Flags: bus master, fast devsel, latency 0, IRQ 55
+	Bus: primary=00, secondary=22, subordinate=22, sec-latency=0
+	I/O behind bridge: [disabled] [16-bit]
+	Memory behind bridge: fb500000-fb5fffff [size=1M] [32-bit]
+	Prefetchable memory behind bridge: e5c00000-e5cfffff [size=1M] [32-bit]
+	Capabilities: [40] Subsystem: VMware PCI Express Root Port
+	Capabilities: [48] Power Management version 3
+	Capabilities: [50] Express Root Port (Slot+), IntMsgNum 0
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+	Kernel driver in use: pcieport
+
+02:00.0 USB controller: VMware USB1.1 UHCI Controller (prog-if 00 [UHCI])
+	DeviceName: usb
+	Subsystem: VMware Device 1976
+	Physical Slot: 32
+	Flags: bus master, medium devsel, latency 64, IRQ 18
+	I/O ports at 2080 [size=32]
+	Capabilities: [40] PCI Advanced Features
+	Kernel driver in use: uhci_hcd
+
+02:01.0 Ethernet controller: Intel Corporation 82545EM Gigabit Ethernet Controller (Copper) (rev 01)
+	DeviceName: Ethernet0
+	Subsystem: VMware PRO/1000 MT Single Port Adapter
+	Physical Slot: 33
+	Flags: bus master, 66MHz, medium devsel, latency 0, IRQ 19
+	Memory at fd5c0000 (64-bit, non-prefetchable) [size=128K]
+	Memory at fdff0000 (64-bit, non-prefetchable) [size=64K]
+	I/O ports at 2000 [size=64]
+	Expansion ROM at fd500000 [virtual] [disabled] [size=64K]
+	Capabilities: [dc] Power Management version 2
+	Capabilities: [e4] PCI-X non-bridge device
+	Kernel driver in use: e1000
+	Kernel modules: e1000
+
+02:02.0 Multimedia audio controller: Ensoniq ES1371/ES1373 / Creative Labs CT2518 (rev 02)
+	DeviceName: sound
+	Subsystem: Ensoniq Audio PCI 64V/128/5200 / Creative CT4810/CT5803/CT5806 [Sound Blaster PCI]
+	Physical Slot: 34
+	Flags: bus master, medium devsel, latency 64, IRQ 16
+	I/O ports at 2040 [size=64]
+	Capabilities: [40] PCI Advanced Features
+	Kernel driver in use: snd_ens1371
+	Kernel modules: snd_ens1371
+
+02:03.0 USB controller: VMware USB2 EHCI Controller (prog-if 20 [EHCI])
+	DeviceName: ehci
+	Subsystem: VMware USB2 EHCI Controller
+	Physical Slot: 35
+	Flags: bus master, fast devsel, latency 64, IRQ 17
+	Memory at fd5ef000 (32-bit, non-prefetchable) [size=4K]
+	Capabilities: [40] PCI Advanced Features
+	Kernel driver in use: ehci-pci
+
+03:00.0 USB controller: VMware Device 077a (prog-if 30 [XHCI])
+	DeviceName: usb_xhci
+	Subsystem: VMware Device 077a
+	Physical Slot: 160
+	Flags: bus master, fast devsel, latency 0, IRQ 18
+	Memory at fd4e0000 (64-bit, non-prefetchable) [size=128K]
+	Capabilities: [64] Power Management version 3
+	Capabilities: [6c] Express Endpoint, IntMsgNum 0
+	Capabilities: [a8] MSI: Enable- Count=1/1 Maskable+ 64bit+
+	Capabilities: [c0] MSI-X: Enable+ Count=31 Masked-
+	Kernel driver in use: xhci_hcd
+Kernel details: 
+Linux ipa.eahmwascentos10.com 6.12.0-284.el10.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Nov 12 09:18:18 UTC 2026 x86_64 GNU/Linux
+=================== CPU Details for Xen ==============================
+CPU Details: 
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 191
+model name	: 13th Gen Intel(R) Core(TM) i7-13700HX
+stepping	: 2
+microcode	: 0xffffffff
+cpu MHz		: 2303.999
+cache size	: 30720 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 32
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 xsaves avx_vnni arat umip gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md_clear serialize flush_l1d arch_capabilities
+bugs		: cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass l1tf mds swapgs retbleed rfds bhi spectre_v2_user its
+bogomips	: 4607.99
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 45 bits physical, 48 bits virtual
+power management:
+No of Cores: 
+8
+
+===============================================================
+Server supports Full-virtualization
+
+===============================================================
+Server supports Para-virtualization
+=================== Distro Info ==============================
+Distro details: 
+
+Kernel details: 
+Linux ipa.eahmwascentos10.com 6.12.0-284.el10.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Nov 12 09:18:18 UTC 2026 x86_64 GNU/Linux
+===============================================================
+* Brought to you by Taashee- http://www.taashee.com
